@@ -1,0 +1,52 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.capcelera th{
+    padding: 30px;;
+    font-size: 20px;
+    height: 20px;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#descans{
+    padding: 15px;
+    text-size-adjust: 20px;
+}
+
+.lmsgi{
+    background-color: lightpink;
+}
+.bd{
+    background-color: beige;
+}
+.ped{
+    background-color: mediumaquamarine;
+}
+.si{
+    background-color: yellow;
+}
+.ipo{
+    background-color: red;
+}
+.an{
+    background-color: lightsalmon;
+}
+.tut{
+    background-color: lightskyblue;
+}
+.diw{
+    background-color: darkorange;
+}
+
+#horari{
+    padding: 10px;
+    text-size-adjust: 20px;
+    width: 180px;
+    text-align: center;
+}
